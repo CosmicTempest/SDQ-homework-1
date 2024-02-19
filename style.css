@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/429eb428828761.55d467b770f02.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:100%;
+
+}
+
+.holder{
+background-color:darkslategray;
+width:80%;
+height:95%;
+max-width:800px;
+margin-top:10%;
+margin-bottom:10%;
+margin-left:25.999999999999999999%;
+margin-right:24%;
+opacity:70%;
+
+
+}
+
+.card{
+    display:flex;
+    justify-content: space-evenly;
+    background-color:aliceblue;
+    padding:20px;
+    margin-top:10px;
+    
+}
+
+p{
+
+    color:black;
+}
+
+img{
+
+    max-block-size:5%;
+}
+
+.perimetro{
+
+margin-left:auto;
+}
